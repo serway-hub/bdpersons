@@ -6,7 +6,7 @@ app= FastAPI()
 with open('../bddatos.json', 'r') as file:
     datos = json.load(file)
 
-@app.get('/')
+@app.get('/datos')
 def index(
     ciudad: str = Query(None, title="Ciudad"),
     sexo: str = Query(None, title="Sexo"),
