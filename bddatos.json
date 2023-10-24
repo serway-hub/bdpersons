@@ -1,0 +1,329 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "sexo": "hombre",
+      "ciudad": "Madrid",
+      "nivel_educativo": "Grado",
+      "ingresos": 1325975
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "sexo": "mujer",
+      "ciudad": "Barcelona",
+      "nivel_educativo": "Maestría",
+      "ingresos": 1768812
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "sexo": "hombre",
+      "ciudad": "Valencia",
+      "nivel_educativo": "Bachillerato",
+      "ingresos": 1447866
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "sexo": "mujer",
+      "ciudad": "Sevilla",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1732356
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Fernández",
+      "sexo": "hombre",
+      "ciudad": "Bilbao",
+      "nivel_educativo": "Grado",
+      "ingresos": 1215063
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "López",
+      "sexo": "mujer",
+      "ciudad": "Málaga",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1623177
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Sánchez",
+      "sexo": "hombre",
+      "ciudad": "Zaragoza",
+      "nivel_educativo": "Maestría",
+      "ingresos": 1882934
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Ramírez",
+      "sexo": "mujer",
+      "ciudad": "Murcia",
+      "nivel_educativo": "Grado",
+      "ingresos": 1328319
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Díaz",
+      "sexo": "hombre",
+      "ciudad": "Toledo",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1810092
+    },
+    {
+      "nombre": "Carmen",
+      "apellido": "Torres",
+      "sexo": "mujer",
+      "ciudad": "Salamanca",
+      "nivel_educativo": "Bachillerato",
+      "ingresos": 1084968
+    },
+    {
+      "nombre": "David",
+      "apellido": "Jiménez",
+      "sexo": "hombre",
+      "ciudad": "Madrid",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1832877
+    },
+    {
+      "nombre": "Elena",
+      "apellido": "Pérez",
+      "sexo": "mujer",
+      "ciudad": "Barcelona",
+      "nivel_educativo": "Grado",
+      "ingresos": 1607645
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "González",
+      "sexo": "hombre",
+      "ciudad": "Valencia",
+      "nivel_educativo": "Bachillerato",
+      "ingresos": 1582790
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Martínez",
+      "sexo": "mujer",
+      "ciudad": "Sevilla",
+      "nivel_educativo": "Maestría",
+      "ingresos": 1416934
+    },
+    {
+      "nombre": "Antonio",
+      "apellido": "Rodríguez",
+      "sexo": "hombre",
+      "ciudad": "Bilbao",
+      "nivel_educativo": "Grado",
+      "ingresos": 1562188
+    },
+    {
+      "nombre": "Marta",
+      "apellido": "Fernández",
+      "sexo": "mujer",
+      "ciudad": "Málaga",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1208752
+    },
+    {
+      "nombre": "José",
+      "apellido": "López",
+      "sexo": "hombre",
+      "ciudad": "Zaragoza",
+      "nivel_educativo": "Maestría",
+      "ingresos": 1857237
+    },
+    {
+      "nombre": "Beatriz",
+      "apellido": "Sánchez",
+      "sexo": "mujer",
+      "ciudad": "Murcia",
+      "nivel_educativo": "Bachillerato",
+      "ingresos": 1934106
+    },
+    {
+      "nombre": "Manuel",
+      "apellido": "Ramírez",
+      "sexo": "hombre",
+      "ciudad": "Toledo",
+      "nivel_educativo": "Grado",
+      "ingresos": 1596621
+    },
+    {
+      "nombre": "Patricia",
+      "apellido": "Torres",
+      "sexo": "mujer",
+      "ciudad": "Salamanca",
+      "nivel_educativo": "Doctorado",
+      "ingresos": 1302125
+    },
+    {
+        "nombre": "Luisa",
+        "apellido": "Sánchez",
+        "sexo": "mujer",
+        "ciudad": "Valencia",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1206758
+      },
+      {
+        "nombre": "Andrés",
+        "apellido": "Gómez",
+        "sexo": "hombre",
+        "ciudad": "Sevilla",
+        "nivel_educativo": "Maestría",
+        "ingresos": 1883012
+      },
+      {
+        "nombre": "Marcela",
+        "apellido": "López",
+        "sexo": "mujer",
+        "ciudad": "Barcelona",
+        "nivel_educativo": "Grado",
+        "ingresos": 1548005
+      },
+      {
+        "nombre": "Roberto",
+        "apellido": "Fernández",
+        "sexo": "hombre",
+        "ciudad": "Madrid",
+        "nivel_educativo": "Doctorado",
+        "ingresos": 1769250
+      },
+      {
+        "nombre": "Lorena",
+        "apellido": "Torres",
+        "sexo": "mujer",
+        "ciudad": "Málaga",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1098367
+      },
+      {
+        "nombre": "Alejandro",
+        "apellido": "Martínez",
+        "sexo": "hombre",
+        "ciudad": "Valencia",
+        "nivel_educativo": "Grado",
+        "ingresos": 1354291
+      },
+      {
+        "nombre": "Sara",
+        "apellido": "Pérez",
+        "sexo": "mujer",
+        "ciudad": "Zaragoza",
+        "nivel_educativo": "Maestría",
+        "ingresos": 1657087
+      },
+      {
+        "nombre": "Raúl",
+        "apellido": "García",
+        "sexo": "hombre",
+        "ciudad": "Toledo",
+        "nivel_educativo": "Doctorado",
+        "ingresos": 1927182
+      },
+      {
+        "nombre": "Natalia",
+        "apellido": "López",
+        "sexo": "mujer",
+        "ciudad": "Barcelona",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1173499
+      },
+      {
+        "nombre": "Javier",
+        "apellido": "Gómez",
+        "sexo": "hombre",
+        "ciudad": "Madrid",
+        "nivel_educativo": "Grado",
+        "ingresos": 1237438
+      },
+      {
+        "nombre": "Valentina",
+        "apellido": "Martínez",
+        "sexo": "mujer",
+        "ciudad": "Valencia",
+        "nivel_educativo": "Doctorado",
+        "ingresos": 1827460
+      },
+      {
+        "nombre": "José Luis",
+        "apellido": "Torres",
+        "sexo": "hombre",
+        "ciudad": "Sevilla",
+        "nivel_educativo": "Maestría",
+        "ingresos": 1698057
+      },
+      {
+        "nombre": "Carolina",
+        "apellido": "Pérez",
+        "sexo": "mujer",
+        "ciudad": "Zaragoza",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1105482
+      },
+      {
+        "nombre": "Andrés",
+        "apellido": "García",
+        "sexo": "hombre",
+        "ciudad": "Murcia",
+        "nivel_educativo": "Grado",
+        "ingresos": 1309123
+      },
+      {
+        "nombre": "Isabella",
+        "apellido": "Sánchez",
+        "sexo": "mujer",
+        "ciudad": "Madrid",
+        "nivel_educativo": "Doctorado",
+        "ingresos": 1852289
+      },
+      {
+        "nombre": "Fernando",
+        "apellido": "Gómez",
+        "sexo": "hombre",
+        "ciudad": "Valencia",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1103281
+      },
+      {
+        "nombre": "Valeria",
+        "apellido": "Rodríguez",
+        "sexo": "mujer",
+        "ciudad": "Sevilla",
+        "nivel_educativo": "Maestría",
+        "ingresos": 1680034
+      },
+      {
+        "nombre": "Ricardo",
+        "apellido": "Martínez",
+        "sexo": "hombre",
+        "ciudad": "Madrid",
+        "nivel_educativo": "Grado",
+        "ingresos": 1276693
+      },
+      {
+        "nombre": "Silvia",
+        "apellido": "García",
+        "sexo": "mujer",
+        "ciudad": "Valencia",
+        "nivel_educativo": "Doctorado",
+        "ingresos": 1910486
+      },
+      {
+        "nombre": "Eduardo",
+        "apellido": "Torres",
+        "sexo": "hombre",
+        "ciudad": "Barcelona",
+        "nivel_educativo": "Bachillerato",
+        "ingresos": 1364727
+      }
+      
+    
+
+    
+  ]
+  
+  
+  
